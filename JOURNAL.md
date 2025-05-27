@@ -1,6 +1,6 @@
 # Thunder
 
-### Total time spent : 2-3hrs
+### Total time spent : 5-6hrs
 
 ## May 23rd
 
@@ -19,5 +19,22 @@ I plan to learn about some parts first, select which ones to use in my project a
 ![Tinkercad Testing](journal_assets/tinkercadTesting1.png)
 
 ( _I plan to use ESP-32s, but as I am just testing, I think arduino would work just fine..._ )
+
+## May 25-26th
+
+### Time spent : ~ 3 
+
+I did some of research on transmitters and receivers which I think would be the hardest part in this project. I initially thought of using ESP32s but I think using 2 microcontrollers for this just doesn't make sense, atleast not when I can do it without microcontrollers + They would limit the range by a lot. 
+
+I am thinking of going with a 5.8Ghz , 4-5-channel trasmitter and receiver(I would be using just 3 of them but would keep some incase of future extension of the project). I would be using one channel for steering, one for throttle and the last for headlights. To make this project cooler, I would make the transmitter and receiver myself!
+
+I already started a project in kicad, did nothing till now, currently finding symbols and footprints
+
+I would be using an overall schematic similar to this that I found on the internet, I honestly don't know a lot about all components yet, so I would only place stuff in kicad when I know what it does.
+
+![Transmitter schematic](journal_assets/transmitterSchematic.png)
+![Started Kicad Project](journal_assets/02.jpg)
+
+
 
 
