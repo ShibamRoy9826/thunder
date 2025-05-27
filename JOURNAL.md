@@ -1,6 +1,6 @@
 # Thunder
 
-### Total time spent : 5-6hrs
+### Total time spent : 4-5hrs
 
 ## May 23rd
 
@@ -15,14 +15,14 @@ So far learned about ESCs & BECs(which, if I am not wrong, are built-in most ESC
 I also made a roadmap kind of thing so that I know what I need to do after each step.
 I plan to learn about some parts first, select which ones to use in my project and then start designing the chassis, once I am done with the chassis model,I want to work on the PCB designing part, and finally the outer 3d model. 
 
-![Rough Diagram](journal_assets/01.joeg)
+![Rough Diagram](journal_assets/01.jpeg)
 ![Tinkercad Testing](journal_assets/tinkercadTesting1.png)
 
 ( _I plan to use ESP-32s, but as I am just testing, I think arduino would work just fine..._ )
 
 ## May 25-26th
 
-### Time spent : ~ 3 
+### Time spent : ~ 2hrs
 
 I did some of research on transmitters and receivers which I think would be the hardest part in this project. I initially thought of using ESP32s but I think using 2 microcontrollers for this just doesn't make sense, atleast not when I can do it without microcontrollers + They would limit the range by a lot. 
 
@@ -33,8 +33,6 @@ I already started a project in kicad, did nothing till now, currently finding sy
 I would be using an overall schematic similar to this that I found on the internet, I honestly don't know a lot about all components yet, so I would only place stuff in kicad when I know what it does.
 
 ![Transmitter schematic](journal_assets/transmitterSchematic.png)
-![Started Kicad Project](journal_assets/02.jpg)
-
 
 
 
