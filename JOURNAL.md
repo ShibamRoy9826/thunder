@@ -1,6 +1,6 @@
 # Thunder
 
-### Total time spent : 4-5hrs
+### Total time spent : 10-11hrs
 
 ## May 23rd
 
@@ -32,7 +32,20 @@ I already started a project in kicad, did nothing till now, currently finding sy
 
 I would be using an overall schematic similar to this that I found on the internet, I honestly don't know a lot about all components yet, so I would only place stuff in kicad when I know what it does.
 
-![Transmitter schematic](journal_assets/transmitterSchematic.png)
+![Transmitter schematic](journal_assets/transmitterSchematic1.png)
+
+## May 27-28
+
+### Time spent: 5-6hrs
+
+Did a lot more research on parts that I would be using. Finally got some real work done today, finished the schematic for the transmitter!
+Had some real trouble finding footprints and symbols, but other hackclubbers helped me out with that through slack!
+
+Also started working on the PCB, should hopefully finish the PCB by tommorrow!
+
+![Transmitter schematic](journal_assets/transmitterSchematic2.png)
+
+
 
 
 

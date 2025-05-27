@@ -6,6 +6,6 @@ An FPV RC Car made by myself!
 
 None added yet, its a WIP
 
-#### Read my journey of creating this project [here](https://github.com/ShibamRoy9826/thunder/JOURNAL.md
+#### Read my journey of making this project [here](https://github.com/ShibamRoy9826/thunder/JOURNAL.md)
 
 
