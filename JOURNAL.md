@@ -45,7 +45,28 @@ Also started working on the PCB, should hopefully finish the PCB by tommorrow!
 
 ![Transmitter schematic](journal_assets/transmitterSchematic2.png)
 
+## May 30-31
 
+### Time spent: ~4hrs
 
+Couldn't work yesterday, have been focusing on studies for a while...
 
+But, I completed the PCB for my transmitter! I tried to find out some platforms for buying the components too. 
 
+Found out about [ebhoot.in](https://ebhoot.in) and [robosap.in](https://robosap.in)(finally something that supports hcb 😭), from another hackclubber, both are really great places to buy the required components, cheap and they are indian(so significantly less shipping charges)!
+
+I would work on a case for it later on, but for now ig its time to begin with the chasis! 
+
+Here are a few pics of what I have completed so far:
+
+![Schematic](journal_assets/transmistterSchematic3.png)
+![PCB](journal_assets/transmitterPCB.png)
+![3dFront](journal_assets/transmitter3dFront.png)
+![3dBack](journal_assets/transmitter3dBack.png)
+
+Yet to add some silkscreen though.... its looking a bit too empty for now
+
+At the mean time also practiced soldering and desoldering(just got my hackpad soldering kit)!
+Took out few components out of an old mouse PCB for practice. I would solder them back tommorrow.
+
+![Desoldering](journal_assets/desoldered.jpg)
