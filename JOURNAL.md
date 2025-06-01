@@ -1,10 +1,10 @@
 # Thunder
 
-### Total time spent : 10-11hrs
+### Total time spent : 14hrs
 
 ## May 23rd
 
-### Time spent : 2-3 hrs
+### Time spent : ~2.5 hrs
 
 Brainstormed my project, its going to be an **FPV RC car** so that I can race around my home, I am honestly really excited to build this thing, I have always wanted to make something like this.
 Also did a lot of research on RC cars, saw other RC cars, and ton of yt vids and got an idea on where to start.
@@ -36,7 +36,7 @@ I would be using an overall schematic similar to this that I found on the intern
 
 ## May 27-28
 
-### Time spent: 5-6hrs
+### Time spent: ~5.5hrs
 
 Did a lot more research on parts that I would be using. Finally got some real work done today, finished the schematic for the transmitter!
 Had some real trouble finding footprints and symbols, but other hackclubbers helped me out with that through slack!
